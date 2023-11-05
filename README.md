@@ -60,10 +60,6 @@ npm start
 
 Your browser should open up to a running app.
 
-## License
 
-Licensed under the MIT license.
-
----
 
 👉 [View Live](https://kanbann-board.netlify.app/)
